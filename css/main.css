@@ -1,0 +1,9 @@
+img {
+    width: auto;
+    max-height: 200px;
+    margin: 2rem auto;
+}
+
+.active {
+    color: orange;
+}
